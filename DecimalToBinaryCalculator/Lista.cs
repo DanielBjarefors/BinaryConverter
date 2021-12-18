@@ -8,7 +8,7 @@ namespace DecimalToBinaryCalculator
 {
     class Lista
     {
-        public static void FillBinaryList(double input)
+        public static void FillBinaryList(int input)
         {
             List<int> BinaryList = new List<int>();
 

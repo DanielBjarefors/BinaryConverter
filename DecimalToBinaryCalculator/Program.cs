@@ -7,22 +7,14 @@ namespace DecimalToBinaryCalculator
     {
         static void Main(string[] args)
         {
-            double input = 0;
-            
-            while (input<1)
+            int input = 0;
+
+            do
             {
                 Console.WriteLine("Write a number between 1 and whatever");
-
-                double.TryParse(Console.ReadLine(), out input);
-            }
-
-           
+            } while (input > 1 && int.TryParse(Console.ReadLine(), out input));
 
             Lista.FillBinaryList(input);
-
-            
-
-
         }
     }
 }

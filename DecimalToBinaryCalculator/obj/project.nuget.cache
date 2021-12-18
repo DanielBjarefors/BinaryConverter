@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iGSJvmgF/QVXvv6LEr5uUZ3rYeg3sgXkXpIqzuGw17WzVCU2cxy4fdvg85qrfHKrfCKXOzuMD3GYLWNwwD6LLw==",
+  "dgSpecHash": "51iBTkuaWzGCKtHq7BPVfgSaqypbRv+5X7YoMTVN8nHL/ISXiuKs5RXN5pf4X7KevAryWUOsOCJ1hER1sgTqvg==",
   "success": true,
-  "projectFilePath": "C:\\CEX\\TestProgram\\DecimalToBinaryCalculator\\DecimalToBinaryCalculator.csproj",
+  "projectFilePath": "C:\\Users\\dbis\\Source\\Repos\\DanielBjarefors\\BinaryConverter\\DecimalToBinaryCalculator\\DecimalToBinaryCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
