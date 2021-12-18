@@ -1,0 +1,16 @@
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.csproj.AssemblyReference.cache
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.AssemblyInfoInputs.cache
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.AssemblyInfo.cs
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.csproj.CoreCompileInputs.cache
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\DecimalToBinaryCalculator.exe
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\DecimalToBinaryCalculator.deps.json
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\DecimalToBinaryCalculator.runtimeconfig.json
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\DecimalToBinaryCalculator.runtimeconfig.dev.json
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\DecimalToBinaryCalculator.dll
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\ref\DecimalToBinaryCalculator.dll
+C:\CEX\TestProgram\DecimalToBinaryCalculator\bin\Debug\net5.0\DecimalToBinaryCalculator.pdb
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.dll
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\ref\DecimalToBinaryCalculator.dll
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.pdb
+C:\CEX\TestProgram\DecimalToBinaryCalculator\obj\Debug\net5.0\DecimalToBinaryCalculator.genruntimeconfig.cache
